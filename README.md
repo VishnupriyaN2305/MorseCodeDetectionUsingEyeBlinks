@@ -20,6 +20,7 @@ also allows the end user to learn morse code by encoding a message. In this
 project, morse code is detected using image processing.
 
 INNOVATIVE PLAN
+
 The current systems and developed projects either have implemented
 the morse code detection from eye blinks for the purpose of helping LIS 
 (Locked-in Syndrome) or ALS (Amyotrophic Lateral Sclerosis) patients or 
