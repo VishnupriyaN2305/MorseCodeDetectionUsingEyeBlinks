@@ -28,17 +28,17 @@ for the purpose of secret communication. We have brought the use of such a
 communication for the purpose emergency situations where the victim is 
 incapable of conveying through words along with the implementation to 
 support patients who have difficulty in conveying messages to caretakers 
-through speech and signs.
+through speech and signs.<br>
 Another feature is, this system can classify blinks as voluntary (long) and 
 involuntary (short) blinks since the camera module would be running in the 
-background. 
+background. <br>
 Voice capabilities are included, in case of patient’s communication with care 
 takers or family members making it easier as any normal person 
 communicates. This feature proves to be a major advantage to people who are 
-disabled for life and treatment for such disabilities are not possible.
+disabled for life and treatment for such disabilities are not possible.<br>
 We have overcome the problem that most of the earlier systems had in 
 common that the system fails to recognize the registered user when the 
-lighting and picture quality is poor.
+lighting and picture quality is poor.<br>
 Also, a user may not know or forget morse code, in which case, we have 
 provided a text to morse code convertor to ease the learning of the user.
 
